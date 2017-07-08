@@ -6,6 +6,8 @@ CodeBook is Facebook for junior webdevelopers who want to share their experiance
 - log out
 - create a profile
 - post
+- edit post
+- delete post
 - comment
 - like
 - dislike posts 
